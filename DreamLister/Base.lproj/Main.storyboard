@@ -292,7 +292,7 @@
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="y2R-N7-F3q" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="PvI-LN-Hq1">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="PvI-LN-Hq1">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
